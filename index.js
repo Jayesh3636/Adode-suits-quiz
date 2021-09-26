@@ -23,7 +23,7 @@ console.log  (chalk.hex('#ffc100')("Level 1: Will have a single software (Adobe 
 console.log  ("");
 console.log  (chalk.hex('#ff6624')("Level 2: Will have a some medium level quesitons from 3 basic softwares that are Photoshop,XD, illustrator with -3 negative marking." ));
 console.log  ("");
-console.log  (chalk.hex('#b61919')("Level 3: Will have a some medium level quesitons from 3 basic softwares that are Photoshop,XD, Illustrator with -6 negative marking."));console.log  ("");
+console.log  (chalk.hex('#b61919')("Level 3: Will have a some Hard level quesitons from 3 basic softwares that are Photoshop,XD, Illustrator with -6 negative marking."));console.log  ("");
 console.log  ("All the best!");
 
 console.log ("---------------------------------------------");
